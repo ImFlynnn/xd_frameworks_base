@@ -18,4 +18,7 @@
     <!-- Udfps HBM provider class name -->
     <string name="config_udfpsHbmProviderComponent">com.android.systemui.biometrics.DummyUdfpsHbmProvider</string>
 
+    <!-- If true, recorder will use AVCLevel42 for encoding-->
+    <bool name="config_screenrecord_codec_profile_avc42">false</bool>
+
 </resources>
